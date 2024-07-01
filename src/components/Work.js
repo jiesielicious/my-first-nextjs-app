@@ -7,7 +7,7 @@ import SectionWrapper from "./SectionWrapper";
 import data from '../data/work';
 import SkillComponent from "./SkillComponent";
 
-const WorkHistory = () => {
+const Work = () => {
     return (
         <SectionWrapper>
             <Heading>Work History</Heading>
@@ -49,4 +49,4 @@ const WorkHistory = () => {
     );
 }
 
-export default WorkHistory;
+export default Work;
